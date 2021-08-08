@@ -1,0 +1,55 @@
+
+
+h2{
+    text-align: center;
+    color: rgb(0, 255, 106);
+    padding: 25px;
+    margin: 0;
+    
+
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li{
+    float: left;
+    border-right: 1px solid #bbb;
+}
+li:last-child{
+    border-right: none;
+}
+li a{
+    display: block;
+    padding: 30px 200px;
+    color: rgb(0,255,106);
+    text-align: center;
+    text-decoration: none;
+    
+}
+li a:hover{
+    background-color: #111;
+}
+
+table, th, td{
+    border: solid rgb(18, 20, 15);
+    color: rgb(0,255,106);
+    background-color: #333;
+    margin: 0;
+}
+table{
+    width: 100%;
+}
+.Button2
+{
+    font-size: 150%;
+    color: rgb(247, 227, 201);
+    font-family: "Gill Sans", sans-serif;
+    border: solid rgb(169, 208, 240) 3px;
+    background-color: transparent;
+    border-radius: 50px;
+}
